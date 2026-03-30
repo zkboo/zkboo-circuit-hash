@@ -1,0 +1,13 @@
+[package]
+name = "zkboo-circuit-hash"
+version = "0.1.0"
+edition = "2024"
+description = "Cryptographic fingerprinting for ZKBoo circuits."
+license = "LGPL-3.0-or-later"
+documentation = "https://docs.rs/zkboo-circuit-hash"
+repository = "https://github.com/zkboo/zkboo-circuit-hash"
+keywords = ["zk", "zero-knowledge", "zkboo"]
+categories = ["cryptography", "no-std"]
+
+[dependencies]
+zkboo = "0.1.0"
