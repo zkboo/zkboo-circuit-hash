@@ -1,15 +1,15 @@
 # ZKBoo-Circuit-Hash
 
 ![Rust](https://img.shields.io/badge/rust-1.92+-orange.svg)
-[![Crates.io](https://img.shields.io/crates/v/zkboo.svg)](https://crates.io/crates/zkboo-sha2)
-[![Docs.rs](https://docs.rs/zkboo/badge.svg)](https://docs.rs/zkboo-sha2)
+[![Crates.io](https://img.shields.io/crates/v/zkboo-circuit-hash.svg)](https://crates.io/crates/zkboo-circuit-hash)
+[![Docs.rs](https://docs.rs/zkboo-circuit-hash/badge.svg)](https://docs.rs/zkboo-circuit-hash)
 
 Cryptographic fingerprinting for [ZKBoo](https://crates.io/crates/zkboo) circuits.
 
 ## 🚧 Warning 🚧
 
 This crate is work in progress, not yet suitable for use in production.
-Security has has been reviewed and performance has not been optimised.
+Security has not been reviewed and performance has not been optimised.
 Use at your own risk.
 
 ## License
